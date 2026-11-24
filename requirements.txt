@@ -1,0 +1,10 @@
+pymupdf
+rapidocr_onnxruntime
+sentence-transformers
+faiss-cpu
+rank-bm25
+openai
+streamlit
+pandas
+pytest
+reportlab

@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+.pytest_cache/
+.cache/
+models/
+reports/
+*.pdf
+evaluation_results.csv
+chat_results.csv
+.DS_Store
+.env
